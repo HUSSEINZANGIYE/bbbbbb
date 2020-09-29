@@ -1,0 +1,5 @@
+shell : 3.php
+edit : index.php 
+----------
+coded by @mr_reee
+chanel : @Octopus_Card
