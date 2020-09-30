@@ -9,7 +9,7 @@ JOIN : @Octopus_Card */
 
 error_reporting(0);
 date_default_timezone_set('Asia/Tehran');
-define('API_KEY','1267453518:AAEMtjXv9y5g5FSxQpGcFYB9Quwiw4GbpKs'); // توکن ربات
+define('API_KEY','1250221764:AAE46mUYbAPXhIWwHLbwMxU3p2O82_tgIDM'); // توکن ربات
 function vestor($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
     $ch = curl_init();
